@@ -69,7 +69,7 @@
     "include-all": "~0.1.3",
     "skipper": "~0.1.2",
     "merge-defaults": "~0.1.0",
-    "anchor": "git://github.com/AlmaasAre/anchor/tree/0.10.beta.git",
+    "anchor": "git://github.com/AlmaasAre/anchor.git#beta",
     "mock-req": "~0.1.0",
     "mock-res": "~0.1.0",
     "semver": "~2.2.1"
